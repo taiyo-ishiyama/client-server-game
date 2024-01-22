@@ -1,7 +1,6 @@
-# 2803ICT Assignment1 Milestone2
 ## Socket with multiple player game ("Numbers")
 
-Taiyo Ishiyama (s5287456)
+Taiyo Ishiyama
 This program is written using Mac OS
 
 
